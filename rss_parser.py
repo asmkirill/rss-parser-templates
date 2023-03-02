@@ -62,7 +62,7 @@ from bs4 import BeautifulSoup
 
 
 # Design the output for JSON format by creating dictionaries and lists
-# for the channel and items data. Use a counter to limit the number
+# for the channel and items data. Use a counter to limit the number of news to be printed
 
     if json:
         counter = 0
